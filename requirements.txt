@@ -7,3 +7,4 @@ requests
 Flask
 waitress
 smartapi-python
+logzero
