@@ -1,6 +1,6 @@
 pandas
-pandas-ta
-yfinance
+pandas-ta-classic
+python-dotenv
 pyotp
 pyTelegramBotAPI
 requests
