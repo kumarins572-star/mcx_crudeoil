@@ -8,3 +8,4 @@ Flask
 waitress
 smartapi-python
 logzero
+websocket-client
